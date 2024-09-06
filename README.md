@@ -16,7 +16,7 @@ All models are trained at 256x256 resolution.
 
 We use pre-trained FFHQ model from [P2-Weighting](https://github.com/jychoi118/P2-weighting) repository.
 
-Here are the models trained on MetFaces with SDFT: [link](https://1drv.ms/u/s!AkQjJhxDm0Fyhqp_4gkYjwVRBe8V_w?e=Et3ITH).
+Here are the models trained on MetFaces with SDFT: [link](https://drive.google.com/drive/folders/1FG1TRY_VcuLxi5zOg5nPczN1UMMeArKZ?usp=sharing).
 We obtained the reported values with fine-tuning 10k iterations. The domain-specific feature extractor for EGSDE is also attached. We follow the official implementation of [EGSDE](https://github.com/ML-GSAI/EGSDE) to train the domain-specific feature extractor.
 
 ## Requirements
