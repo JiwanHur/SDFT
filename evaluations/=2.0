@@ -1,0 +1,14 @@
+Collecting tensorflow-gpu
+  Downloading tensorflow-gpu-2.12.0.tar.gz (2.6 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting python_version>"3.7"
+  Downloading python_version-0.0.2-py2.py3-none-any.whl (3.4 kB)
+Building wheels for collected packages: tensorflow-gpu
+  Building wheel for tensorflow-gpu (setup.py): started
+  Building wheel for tensorflow-gpu (setup.py): finished with status 'error'
+  Running setup.py clean for tensorflow-gpu
+Failed to build tensorflow-gpu
+Installing collected packages: python_version, tensorflow-gpu
+  Running setup.py install for tensorflow-gpu: started
+  Running setup.py install for tensorflow-gpu: finished with status 'error'
